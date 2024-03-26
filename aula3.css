@@ -1,0 +1,44 @@
+
+
+H1{
+
+color: red
+
+
+}
+
+.titulo{
+
+
+ color:blueviolet
+ 
+}
+
+.sublinhado{
+
+   text-decoration: underline;
+
+}
+
+p{
+
+color:green
+
+}
+
+.link{
+
+cursor: pointer;
+color:blueviolet;
+text-decoration: underline;
+
+
+}
+#sub{
+
+color:gold
+
+}  
+
+
+
